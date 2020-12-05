@@ -6,7 +6,7 @@ import com.opencsv.bean.CsvToBeanBuilder;
 
 // Otros imports ...
 
-public class LeerCSV {
+public class LeeCSV {
 
     public List<golfPlayer> parseaCSV(String path) {
         ....
